@@ -4,7 +4,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/dangerzon555/Ddos/
+git clone https://github.com/blackhost404
 
 cd Ddos
 

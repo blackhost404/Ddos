@@ -10,4 +10,4 @@ cd Ddos
 
 ls
 
-UNKNOWN DDOS.py
+python UNKNOWN DDOS.py
